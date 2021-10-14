@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5943d586-a634-4d75-b72e-3313922c73d1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application-go/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../application-go/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/java/EnrollAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/java/EnrollAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/application/java/RegisterUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/java/RegisterUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../application-javascript/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../application-javascript/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaincode-external/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../chaincode-external/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaincode-external/sampleBuilder/bin/build" beforeDir="false" afterPath="$PROJECT_DIR$/../chaincode-external/sampleBuilder/bin/build" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaincode-external/sampleBuilder/bin/detect" beforeDir="false" afterPath="$PROJECT_DIR$/../chaincode-external/sampleBuilder/bin/detect" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaincode-external/sampleBuilder/bin/release" beforeDir="false" afterPath="$PROJECT_DIR$/../chaincode-external/sampleBuilder/bin/release" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chaincode-java/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../chaincode-java/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../asset-transfer-events/chaincode-java/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../asset-transfer-events/chaincode-java/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../asset-transfer-ledger-queries/application-java/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../asset-transfer-ledger-queries/application-java/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../asset-transfer-private-data/chaincode-java/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../asset-transfer-private-data/chaincode-java/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../asset-transfer-sbe/chaincode-java/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../asset-transfer-sbe/chaincode-java/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chaincode/abstore/java/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../chaincode/abstore/java/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chaincode/fabcar/java/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../chaincode/fabcar/java/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chaincode/fabcar/javascript/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../chaincode/fabcar/javascript/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../chaincode/fabcar/typescript/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../chaincode/fabcar/typescript/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ci/scripts/lint.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../ci/scripts/lint.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ci/scripts/pullFabricImages.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../ci/scripts/pullFabricImages.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ci/scripts/run-test-network-basic.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../ci/scripts/run-test-network-basic.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ci/scripts/run-test-network-events.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../ci/scripts/run-test-network-events.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ci/scripts/run-test-network-ledger.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../ci/scripts/run-test-network-ledger.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ci/scripts/run-test-network-private.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../ci/scripts/run-test-network-private.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ci/scripts/run-test-network-sbe.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../ci/scripts/run-test-network-sbe.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ci/scripts/run-test-network-secured.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../ci/scripts/run-test-network-secured.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commercial-paper/network-clean.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../commercial-paper/network-clean.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commercial-paper/network-starter.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../commercial-paper/network-starter.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commercial-paper/organization/digibank/configuration/cli/monitordocker.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../commercial-paper/organization/digibank/configuration/cli/monitordocker.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commercial-paper/organization/digibank/contract-java/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../commercial-paper/organization/digibank/contract-java/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commercial-paper/organization/digibank/contract/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../commercial-paper/organization/digibank/contract/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commercial-paper/organization/digibank/digibank.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../commercial-paper/organization/digibank/digibank.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commercial-paper/organization/magnetocorp/application-java/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../commercial-paper/organization/magnetocorp/application-java/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commercial-paper/organization/magnetocorp/application-java/src/org/magnetocorp/AddToWallet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../commercial-paper/organization/magnetocorp/application-java/src/org/magnetocorp/AddToWallet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commercial-paper/organization/magnetocorp/configuration/cli/monitordocker.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../commercial-paper/organization/magnetocorp/configuration/cli/monitordocker.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commercial-paper/organization/magnetocorp/contract-java/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../commercial-paper/organization/magnetocorp/contract-java/.settings/org.eclipse.buildship.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commercial-paper/organization/magnetocorp/contract-java/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../../commercial-paper/organization/magnetocorp/contract-java/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commercial-paper/organization/magnetocorp/contract/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../commercial-paper/organization/magnetocorp/contract/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commercial-paper/organization/magnetocorp/magnetocorp.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../commercial-paper/organization/magnetocorp/magnetocorp.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fabcar/go/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../fabcar/go/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fabcar/go/runfabcar.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../fabcar/go/runfabcar.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fabcar/java/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../fabcar/java/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fabcar/java/src/main/java/org/example/ClientApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../fabcar/java/src/main/java/org/example/ClientApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fabcar/javascript/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../fabcar/javascript/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fabcar/networkDown.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../fabcar/networkDown.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fabcar/startFabric.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../fabcar/startFabric.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../fabcar/typescript/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../fabcar/typescript/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../high-throughput/application-go/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../high-throughput/application-go/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../high-throughput/networkDown.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../high-throughput/networkDown.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../high-throughput/startFabric.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../high-throughput/startFabric.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interest_rate_swaps/network/network.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../interest_rate_swaps/network/network.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../interest_rate_swaps/network/scripts/script.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../interest_rate_swaps/network/scripts/script.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../off_chain_data/network-clean.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../off_chain_data/network-clean.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../off_chain_data/startFabric.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../off_chain_data/startFabric.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../scripts/changelog.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../scripts/changelog.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network-nano-bash/generate_artifacts.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network-nano-bash/generate_artifacts.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network-nano-bash/orderer1.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network-nano-bash/orderer1.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network-nano-bash/orderer2.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network-nano-bash/orderer2.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network-nano-bash/orderer3.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network-nano-bash/orderer3.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network-nano-bash/peer1.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network-nano-bash/peer1.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network-nano-bash/peer1admin.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network-nano-bash/peer1admin.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network-nano-bash/peer2.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network-nano-bash/peer2.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network-nano-bash/peer2admin.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network-nano-bash/peer2admin.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network-nano-bash/peer3.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network-nano-bash/peer3.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network-nano-bash/peer3admin.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network-nano-bash/peer3admin.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network-nano-bash/peer4.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network-nano-bash/peer4.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network-nano-bash/peer4admin.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network-nano-bash/peer4admin.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/addOrg3/addOrg3.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/addOrg3/addOrg3.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/addOrg3/ccp-generate.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/addOrg3/ccp-generate.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/network.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/network.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/organizations/ccp-generate.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/organizations/ccp-generate.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/organizations/ccp-template.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/organizations/ccp-template.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/organizations/ccp-template.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/organizations/ccp-template.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/organizations/cryptogen/crypto-config-orderer.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/organizations/cryptogen/crypto-config-orderer.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/organizations/cryptogen/crypto-config-org1.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/organizations/cryptogen/crypto-config-org1.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/organizations/cryptogen/crypto-config-org2.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/organizations/cryptogen/crypto-config-org2.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/organizations/fabric-ca/ordererOrg/fabric-ca-server-config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/organizations/fabric-ca/ordererOrg/fabric-ca-server-config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/organizations/fabric-ca/org1/fabric-ca-server-config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/organizations/fabric-ca/org1/fabric-ca-server-config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/organizations/fabric-ca/org2/fabric-ca-server-config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/organizations/fabric-ca/org2/fabric-ca-server-config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/organizations/fabric-ca/registerEnroll.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/organizations/fabric-ca/registerEnroll.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/scripts/configUpdate.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/scripts/configUpdate.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/scripts/createChannel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/scripts/createChannel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/scripts/deployCC.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/scripts/deployCC.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/scripts/envVar.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/scripts/envVar.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/scripts/org3-scripts/joinChannel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/scripts/org3-scripts/joinChannel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/scripts/org3-scripts/updateChannelConfig.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/scripts/org3-scripts/updateChannelConfig.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/scripts/setAnchorPeer.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/scripts/setAnchorPeer.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test-network/scripts/utils.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../test-network/scripts/utils.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../token-erc-20/chaincode-javascript/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../token-erc-20/chaincode-javascript/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../token-erc-721/chaincode-javascript/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../../token-erc-721/chaincode-javascript/.editorconfig" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/default/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="225103480">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="application-java" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="application-java" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1631258947394" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2759404545" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="2558932824" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="1244593460" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="IMPORT" />
+        <entry key="$PROJECT_DIR$/../../commercial-paper/organization/magnetocorp/contract-java" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="application-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="application-java" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5943d586-a634-4d75-b72e-3313922c73d1" name="Default Changelist" comment="" />
+      <created>1633869919230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633869919230</updated>
+      <workItem from="1633869922884" duration="135000" />
+      <workItem from="1633914919018" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="734000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Analysis" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
